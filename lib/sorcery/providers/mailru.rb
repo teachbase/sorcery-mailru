@@ -1,3 +1,5 @@
+require 'sorcery/providers/base'
+
 module Sorcery
   module Providers
     # This class adds support for OAuth with vk.com.
